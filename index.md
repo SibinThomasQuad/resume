@@ -12,7 +12,7 @@ sibinthomasmdkm@gmail.com
 VEMBENICKAL H,PUNCHAVAYAL PO,KOTTAYAM,KERALA
 
 ```markdown
-### Professional Skills
+Professional Skills
 
 - PHP
 - PHP
@@ -23,9 +23,6 @@ VEMBENICKAL H,PUNCHAVAYAL PO,KOTTAYAM,KERALA
 - BOOTSTRAP
 - KALI LINUX
 - YARA
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
