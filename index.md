@@ -4,11 +4,11 @@ Hello, Im Sibin Thomas, web-developer based on India. I have rich experience in 
 
 ### Basic Information
 
--EMAIL : 
+- EMAIL : 
 sibinthomasmdkm@gmail.com
--PHONE : 
+- PHONE : 
 +919497365514
--ADDRESS :
+- ADDRESS :
 VEMBENICKAL H,PUNCHAVAYAL PO,KOTTAYAM,KERALA
 
 ```markdown
