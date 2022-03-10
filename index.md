@@ -2,9 +2,14 @@
 
 Hello, Im Sibin Thomas, web-developer based on India. I have rich experience in web developement & building and customization. And im a hacker
 
-### Markdown
+### Basic Information
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+EMAIL
+sibinthomasmdkm@gmail.com
+PHONE
++919497365514
+ADDRESS
+VEMBENICKAL H,PUNCHAVAYAL PO,KOTTAYAM,KERALA
 
 ```markdown
 Syntax highlighted code block
