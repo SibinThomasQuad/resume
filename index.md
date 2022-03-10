@@ -33,7 +33,8 @@ Professional Skills
 - SECTRUM SOFTECH SOLUTION (JUL 2017 - SEPT 2017)
 ```
 ### EDUCATION
+```markdown
 - DEGREE (BACHELOR OF COMPUTER APPLICATION    2014-2017)
 - H.S.S (Biology science   2012-2014)
-
+```
 
