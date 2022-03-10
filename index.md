@@ -1,4 +1,4 @@
-![Screenshot](https://sibinthomas.in/images/anthony.jpg)
+<img src="https://sibinthomas.in/images/anthony.jpg" width="150" height="280">
 
 ## SIBIN THOMAS
 
