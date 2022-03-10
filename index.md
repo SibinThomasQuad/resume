@@ -25,16 +25,14 @@ Professional Skills
 - YARA
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
 ### Work Experience
 - INFOCOM (NOVEMBER 2020 - PRECENT)
 - KERALA CIVILSUPPLIES CORPORATION (MAY 2018 - OCTOBER 2020)
 - OYARTECH SOLUTIONS (NOVEMBER 2017 - MARCH 2018)
 - SECTRUM SOFTECH SOLUTION (JUL 2017 - SEPT 2017)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SibinThomasQuad/resume/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### EDUCATION
+- DEGREE (BACHELOR OF COMPUTER APPLICATION    2014-2017)
+- H.S.S (Biology science   2012-2014)
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
