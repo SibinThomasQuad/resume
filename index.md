@@ -27,7 +27,11 @@ Professional Skills
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### Work Experience
+- INFOCOM (NOVEMBER 2020 - PRECENT)
+- KERALA CIVILSUPPLIES CORPORATION (MAY 2018 - OCTOBER 2020)
+- OYARTECH SOLUTIONS (NOVEMBER 2017 - MARCH 2018)
+- SECTRUM SOFTECH SOLUTION (JUL 2017 - SEPT 2017)
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SibinThomasQuad/resume/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
