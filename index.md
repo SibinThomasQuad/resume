@@ -23,6 +23,34 @@ Professional Skills
 - BOOTSTRAP
 - KALI LINUX
 - YARA
+- LINUX
+- GIT
+- VPS
+
+Frameworks
+
+- LARAVEL
+- CODEIGNATOR
+- FLASK
+- FAST API
+- SLIM
+- DJANGO
+- TORNADO
+
+ORMS
+
+- ELEQUENT
+- DJANGO ORM
+- SQL ALCHEMY
+- WHMCS CAPSULE
+
+TEMPLATE ENGINE
+
+- BLADE
+- SMARTY
+- TWIG
+- DJANGO
+
 ```
 
 ### Work Experience
